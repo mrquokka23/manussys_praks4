@@ -1,0 +1,7 @@
+../Core/Src/usart.c:40:6:MX_USART1_UART_Init	8	static
+../Core/Src/usart.c:71:6:HAL_UART_MspInit	48	static
+../Core/Src/usart.c:104:6:HAL_UART_MspDeInit	16	static
+../Core/Src/usart.c:130:5:USART1_send	24	static
+../Core/Src/usart.c:142:5:USART1_receive	16	static
+../Core/Src/usart.c:152:6:HAL_UART_TxCpltCallback	24	static
+../Core/Src/usart.c:164:6:HAL_UART_RxCpltCallback	536	static

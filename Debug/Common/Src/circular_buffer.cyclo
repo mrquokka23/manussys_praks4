@@ -1,0 +1,7 @@
+../Common/Src/circular_buffer.c:3:5:next_index	2
+../Common/Src/circular_buffer.c:9:6:circ_init	1
+../Common/Src/circular_buffer.c:17:5:circ_fill_level	1
+../Common/Src/circular_buffer.c:21:5:circ_push_byte	2
+../Common/Src/circular_buffer.c:35:5:circ_push	3
+../Common/Src/circular_buffer.c:45:5:circ_pop_byte	2
+../Common/Src/circular_buffer.c:57:5:circ_pop	3
